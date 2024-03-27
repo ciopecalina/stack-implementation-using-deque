@@ -11,4 +11,9 @@ Defined a class that simulates a stack of documents. The class allows:
 - deleting a document
 - checking if the document stack is empty
 
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -------------:|
+| col 3 is      | some wordy text | $1600         |
+| col 2 is      | centered        |   $12         |
+| zebra stripes | are neat        |    $1         |
 
